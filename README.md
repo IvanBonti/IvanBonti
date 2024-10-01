@@ -19,7 +19,7 @@ Languages & Tools:
 - Complex SQL Query Development
 
 ## What I'm Up To:
-🚀 **Working** on cutting-edge cloud solutions
-🔬 **Investigating** new AI technologies
-🎯 **Helping** shape the future through scientific research and education
+- 🚀 **Working** on cutting-edge cloud solutions
+- 🔬 **Investigating** new AI technologies
+- 🎯 **Helping** shape the future through scientific research and education
 
